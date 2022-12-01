@@ -1,1 +1,1 @@
-# xrick.github.io
+# xrick
